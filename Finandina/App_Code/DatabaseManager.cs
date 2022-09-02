@@ -11,8 +11,8 @@ public class DatabaseManager
 
     public DatabaseManager()
     {
-        _ConnectionString = ConfigurationManager.ConnectionStrings[1] != null ?
-            ConfigurationManager.ConnectionStrings[1].ConnectionString : string.Empty;
+        _ConnectionString = ConfigurationManager.ConnectionStrings["ConnectionString"] != null ?
+            ConfigurationManager.ConnectionStrings["ConnectionString"].ConnectionString : string.Empty;
     }
 
     public static void ExecuteCommand(string commandString)

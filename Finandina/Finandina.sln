@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Finandina", ".", "{409753D2-40D6-4988-A9E7-5300DC3CB0E5}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		ProjectReferences = "{e11f18d6-1fb0-4ccf-a38a-1fa7cfc44035}|FinandinaServiceClasses.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_61106"
+		Debug.AspNetCompiler.PhysicalPath = "..\Finandina\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61106\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_61106"
+		Release.AspNetCompiler.PhysicalPath = "..\Finandina\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61106\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "61106"
+		SlnRelativePath = "..\Finandina\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinandinaServiceClasses", "..\FinandinaServiceClasses\FinandinaServiceClasses.csproj", "{E11F18D6-1FB0-4CCF-A38A-1FA7CFC44035}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{409753D2-40D6-4988-A9E7-5300DC3CB0E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{409753D2-40D6-4988-A9E7-5300DC3CB0E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{409753D2-40D6-4988-A9E7-5300DC3CB0E5}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{409753D2-40D6-4988-A9E7-5300DC3CB0E5}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{E11F18D6-1FB0-4CCF-A38A-1FA7CFC44035}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E11F18D6-1FB0-4CCF-A38A-1FA7CFC44035}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E11F18D6-1FB0-4CCF-A38A-1FA7CFC44035}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E11F18D6-1FB0-4CCF-A38A-1FA7CFC44035}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54BE4373-2614-4086-8EBF-19FD24031B3B}
+	EndGlobalSection
+EndGlobal

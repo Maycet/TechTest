@@ -1,0 +1,6 @@
+C:\Users\Usuario\Documentos\Visual Studio 2022\Projects\TechTest\FinandinaServiceClasses\bin\Debug\FinandinaServiceClasses.dll
+C:\Users\Usuario\Documentos\Visual Studio 2022\Projects\TechTest\FinandinaServiceClasses\bin\Debug\FinandinaServiceClasses.pdb
+C:\Users\Usuario\Documentos\Visual Studio 2022\Projects\TechTest\FinandinaServiceClasses\obj\Debug\FinandinaServiceClasses.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documentos\Visual Studio 2022\Projects\TechTest\FinandinaServiceClasses\obj\Debug\FinandinaServiceClasses.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documentos\Visual Studio 2022\Projects\TechTest\FinandinaServiceClasses\obj\Debug\FinandinaServiceClasses.dll
+C:\Users\Usuario\Documentos\Visual Studio 2022\Projects\TechTest\FinandinaServiceClasses\obj\Debug\FinandinaServiceClasses.pdb

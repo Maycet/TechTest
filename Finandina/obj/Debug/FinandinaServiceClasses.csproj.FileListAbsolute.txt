@@ -1,0 +1,2 @@
+C:\Users\Usuario\Documentos\Visual Studio 2022\Projects\TechTest\Finandina\obj\Debug\FinandinaServiceClasses.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documentos\Visual Studio 2022\Projects\TechTest\Finandina\obj\Debug\FinandinaServiceClasses.csproj.CoreCompileInputs.cache
